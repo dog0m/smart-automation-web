@@ -175,9 +175,9 @@ npm run build
 4. **Puppeteer** - 首次使用 Puppeteer 会自动下载 Chromium，可能需要一些时间
 
 ## 项目声明
-项目名称(Project Name): Smart Automation Web
-项目作者(Author): 孟飞
-作者单位(Affiliation): 暨南大学网络空间安全学院(College of Cyber Security，Jinan University)
+-项目名称(Project Name): Smart Automation Web
+-项目作者(Author): 孟飞
+-作者单位(Affiliation): 暨南大学网络空间安全学院(College of Cyber Security，Jinan University)
 
 
 
